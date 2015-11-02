@@ -22,3 +22,6 @@ Read in the compressed file and convert it to binary strings to be used in compr
 swap.py:
 Simply swap two element in the heap.
 
+test.txt:
+contains test case for the huffman codes. To test, run:
+$ python compress.py test
